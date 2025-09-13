@@ -18,6 +18,7 @@ build/
 *.npy
 *.csv
 *.tsv
+*.mat
 *.parquet
 *.feather
 *.h5
